@@ -11,3 +11,5 @@ bye
 
 
 new
+
+texto de
